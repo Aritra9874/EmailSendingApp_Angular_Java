@@ -8,3 +8,4 @@ Here,the user have to put the email(to whom user wants to send the email),subjec
 <br>
 If there is an error while sending the email,then it will show failure..If the user also want to send some attachment along with the message,he can also do that.
 <h3>Dependencies:</h3>
+Used javax.mail dependency in pom.xml file..
